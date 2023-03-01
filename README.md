@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thushan Madhushara</h1>
-<img src="[https://gifdb.com/gif/fast-typing-system-coding-z1iv6mdhq1lzby64.html](https://gfycat.com/kinddistortedirrawaddydolphin)">
+<img src="https://www.google.com/search?q=typing+coding+fast+gif&tbm=isch&ved=2ahUKEwi9vZOisrv9AhXYFLcAHbLTB8kQ2-cCegQIABAA&oq=typing+coding+fast+gif&gs_lcp=CgNpbWcQAzoFCAAQgARQ1AZY3iRg-S1oAXAAeACAAbkBiAGbCZIBAzAuN5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=tp3_Y72KKtip3LUPsqefyAw&bih=933&biw=1903&hl=en#imgrc=51fHJ4VSLjSKFM">
 <h3 align="center">A passionate full Stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thushanm&label=Profile%20views&color=0e75b6&style=flat" alt="thushanm" /> </p>
