@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thushan Madhushara</h1>
-img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Ffast-typing-system-coding-z1iv6mdhq1lzby64.html&psig=AOvVaw1u4oQosSJysvaLtnjrNkgt&ust=1677782865926000&source=images&cd=vfe&ved=0CAwQjRxqGAoTCOjX2bGyu_0CFQAAAAAdAAAAABCMAQ">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Ffast-typing-system-coding-z1iv6mdhq1lzby64.html&psig=AOvVaw1u4oQosSJysvaLtnjrNkgt&ust=1677782865926000&source=images&cd=vfe&ved=0CAwQjRxqGAoTCOjX2bGyu_0CFQAAAAAdAAAAABCMAQ">
 <h3 align="center">A passionate full Stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thushanm&label=Profile%20views&color=0e75b6&style=flat" alt="thushanm" /> </p>
