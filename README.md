@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/tech-technology-mograph-pOEbLRT4SwD35IELiQ?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVmYmRmYjkzZDUxMmRhYzc1ZTU1OGIzYzAwNjFlNGJlOGMwNGRmNiZjdD1n/pOEbLRT4SwD35IELiQ/giphy.gif">
 <h1 align="center">Hi 👋, I'm Thushan Madhushara</h1>
 
 <h3 align="center">A passionate full Stack developer from Sri Lanka</h3>
