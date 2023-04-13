@@ -1,4 +1,4 @@
-<img src="[[https://www.google.com/search?q=typing+coding+fast+gif&tbm=isch&ved=2ahUKEwi9vZOisrv9AhXYFLcAHbLTB8kQ2-cCegQIABAA&oq=typing+coding+fast+gif&gs_lcp=CgNpbWcQAzoFCAAQgARQ1AZY3iRg-S1oAXAAeACAAbkBiAGbCZIBAzAuN5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=tp3_Y72KKtip3LUPsqefyAw&bih=933&biw=1903&hl=en#imgrc=51fHJ4VSLjSKFM](https://media4.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif)](https://bit.ly/3oohesC)">
+<img src="![image](https://user-images.githubusercontent.com/122750947/231787113-73f2f6e4-0f6d-4a66-9796-9f79e19d087e.png)">
 <h1 align="center">Hi 👋, I'm Thushan Madhushara</h1>
 
 <h3 align="center">A passionate full Stack developer from Sri Lanka</h3>
