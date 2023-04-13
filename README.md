@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Thushan Madhushara</h1>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVmYmRmYjkzZDUxMmRhYzc1ZTU1OGIzYzAwNjFlNGJlOGMwNGRmNiZjdD1n/pOEbLRT4SwD35IELiQ/giphy.gif"width="100vw">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fgedalyakrycer%2F10-visual-studio-code-tricks-to-unleash-your-productivity-p6a&psig=AOvVaw3psBiPBD6yQ4tDLqFCinnB&ust=1681482901862000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjIuIqKp_4CFQAAAAAdAAAAABAE">
 
 <h3 align="center">A passionate full Stack developer from Sri Lanka</h3>
 
