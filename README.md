@@ -1,5 +1,6 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVmYmRmYjkzZDUxMmRhYzc1ZTU1OGIzYzAwNjFlNGJlOGMwNGRmNiZjdD1n/pOEbLRT4SwD35IELiQ/giphy.gif">
+
 <h1 align="center">Hi 👋, I'm Thushan Madhushara</h1>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVmYmRmYjkzZDUxMmRhYzc1ZTU1OGIzYzAwNjFlNGJlOGMwNGRmNiZjdD1n/pOEbLRT4SwD35IELiQ/giphy.gif">
 
 <h3 align="center">A passionate full Stack developer from Sri Lanka</h3>
 
