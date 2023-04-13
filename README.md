@@ -1,4 +1,4 @@
-<img src="[![image](https://user-images.githubusercontent.com/122750947/231787113-73f2f6e4-0f6d-4a66-9796-9f79e19d087e.png)](https://media4.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif)">
+<img src="https://giphy.com/gifs/tech-technology-mograph-pOEbLRT4SwD35IELiQ?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=">
 <h1 align="center">Hi 👋, I'm Thushan Madhushara</h1>
 
 <h3 align="center">A passionate full Stack developer from Sri Lanka</h3>
